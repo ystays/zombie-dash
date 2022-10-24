@@ -1,0 +1,24 @@
+﻿  Actor.cpp
+  GameController.cpp
+  GameWorld.cpp
+  main.cpp
+  StudentWorld.cpp
+c:\users\yishe\documents\cs32\project 3\zombiedash\zombiedash\studentworld.cpp(188): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+GameController.obj : error LNK2001: unresolved external symbol __imp_glutReshapeFunc
+GameController.obj : error LNK2001: unresolved external symbol __imp___glutCreateWindowWithExit
+GameController.obj : error LNK2001: unresolved external symbol __imp_glutSetOption
+GameController.obj : error LNK2001: unresolved external symbol __imp___glutInitWithExit
+GameController.obj : error LNK2001: unresolved external symbol __imp_glutLeaveMainLoop
+GameController.obj : error LNK2001: unresolved external symbol __imp_glutKeyboardFunc
+GameController.obj : error LNK2001: unresolved external symbol __imp_glutStrokeLength
+GameController.obj : error LNK2001: unresolved external symbol __imp_glutInitDisplayMode
+GameController.obj : error LNK2001: unresolved external symbol __imp_glutSpecialFunc
+GameController.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) class irrklang::ISoundEngine * __cdecl irrklang::createIrrKlangDevice(enum irrklang::E_SOUND_OUTPUT_DRIVER,int,char const *,char const *)" (__imp_?createIrrKlangDevice@irrklang@@YAPEAVISoundEngine@1@W4E_SOUND_OUTPUT_DRIVER@1@HPEBD1@Z)
+GameController.obj : error LNK2001: unresolved external symbol __imp_glutTimerFunc
+GameController.obj : error LNK2001: unresolved external symbol __imp_glutDisplayFunc
+GameController.obj : error LNK2001: unresolved external symbol __imp_glutMainLoop
+GameController.obj : error LNK2001: unresolved external symbol __imp_glutInitWindowPosition
+GameController.obj : error LNK2001: unresolved external symbol __imp_glutStrokeCharacter
+GameController.obj : error LNK2001: unresolved external symbol __imp_glutInitWindowSize
+GameController.obj : error LNK2001: unresolved external symbol __imp_glutSwapBuffers
+C:\Users\yishe\Documents\CS32\Project 3\ZombieDash\x64\Release\ZombieDash.exe : fatal error LNK1120: 17 unresolved externals
